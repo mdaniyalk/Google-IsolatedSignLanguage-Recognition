@@ -1,0 +1,4 @@
+/asl-signs
+/.ipynb_checkpoints
+feature_data.npy
+label_data.npy
